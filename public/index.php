@@ -3,6 +3,7 @@
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
 use <Img:sizes></Img:sizes>
+use <Img:sizes></Img:sizes>
 
 define('LARAVEL_START', microtime(true));
 
